@@ -30,18 +30,20 @@ My current research focuses on advancing theories and algorithms in global optim
 
 In my research journey (as some might see on [Google Scholar](https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en)), I enjoyed collaborating with outstanding professionals—whether students, engineers, or professors—to achieve meaningful breakthroughs, step by step. For more details of my experience, please check my [LinkedIn](https://www.linkedin.com/in/yi-zhang-433567132/).
 
-[//]: # (Before beginning my true research journey &#40;as some might see on [Google Scholar]&#40;https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en&#41;&#41;, I had always envisioned becoming a teacher, unaware of terms like 'academic' or 'professor.' However, destiny led me down a slightly different path, where I discovered that my true goal is to collaborate with outstanding professionals—whether students, engineers, or professors—to achieve meaningful breakthroughs, step by step. I may take on various roles within a team, not necessarily as the leader, but I always position myself to be responsible for driving the core advancements.)
+<!--
+Before beginning my true research journey (as some might see on [Google Scholar](https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en)), I had always envisioned becoming a teacher, unaware of terms like 'academic' or 'professor.' However, destiny led me down a slightly different path, where I discovered that my true goal is to collaborate with outstanding professionals—whether students, engineers, or professors—to achieve meaningful breakthroughs, step by step. I may take on various roles within a team, not necessarily as the leader, but I always position myself to be responsible for driving the core advancements.
 
-[//]: # (I am honored to introduce the individuals who shaped my research abilities, strengthened my theoretical foundation, and broadened my perspective on life.)
+I am honored to introduce the individuals who shaped my research abilities, strengthened my theoretical foundation, and broadened my perspective on life.
 
-[//]: # ()
-[//]: # (- Prof. Nikolaos V. Sahinidis)
 
-[//]: # (- Prof. Gang Rong)
+- Prof. Nikolaos V. Sahinidis
 
-[//]: # (- Prof. Yiping Feng)
+- Prof. Gang Rong
 
-[//]: # ()
+- Prof. Yiping Feng
+
+!-->
+
 
 
 [//]: # (Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>]&#40;https://lena-voita.github.io/nlp_course.html&#41; creator and current [SIGREP]&#40;https://www.sigrep.org&#41; president.)
