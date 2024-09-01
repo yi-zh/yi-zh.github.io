@@ -22,7 +22,7 @@ I have been enjoying developing optimization solvers and studying mathematics ev
 
 - PhD (2014-2019) in Control Science and Engineering,  [__Zhejiang University__](http://www.cse.zju.edu.cn/), with emphasize on modeling, simulation, optimization in process system engineering
 
-- Researcher that never retires and always enjoys teaching. Please allow me to introduce my role model here who I always look up to: [Prof. Egon Balas](https://en.wikipedia.org/wiki/Egon_Balas) [<span style="color:#92bf32">__[Video]__](https://www.youtube.com/watch?v=DLnELKgtIM0&t=974s)
+- Researcher that never retires and always enjoys teaching. Please allow me to introduce my role model here who I always look up to: [Prof. Egon Balas](https://en.wikipedia.org/wiki/Egon_Balas) <a href="https://www.youtube.com/watch?v=DLnELKgtIM0&t=974s" class="label video">Video</a>
 
 Before beginning my true research journey (as some might see on [Google Scholar](https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en)), I had always envisioned becoming a teacher, unaware of terms like 'academic' or 'professor.' However, destiny led me down a slightly different path, where I discovered that my true goal is to collaborate with outstanding professionals—whether students, engineers, or professors—to achieve meaningful breakthroughs, step by step. I may take on various roles within a team, not necessarily as the leader, but I always position myself to be responsible for driving the core advancements.
 
@@ -56,7 +56,7 @@ Before beginning my true research journey (as some might see on [Google Scholar]
 __2024__
 
 * <span style="color:#7fa827">BARON Tutorial:</span>  [EUROPT 2024](https://europt2024.event.lu.se/). 
-* <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). [<span style="color:#92bf32">__[Video]__](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s)
+* <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). <a href="https://www.youtube.com/watch?v=oCL9npynb6M&t=428s" class="label video">Video</a> 
 * <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://mailchi.mp/7bb87bcc5909/new-baron-version-24-1-30), [BARON 24.5.8](https://mailchi.mp/4d3f8de3a2cf/new-baron-version-24-5-8).
 
 __2023__
