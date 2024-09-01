@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="update video links">
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="hide redundant menus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,13 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00039" summary="[github.io] fix acl19 papers">
-      <created>1559559525300</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1559559525300</updated>
     </task>
     <task id="LOCAL-00040" summary="[github.io] fix">
       <created>1559559678793</created>
@@ -546,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725211096195</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="hide redundant menus">
+      <created>1725212142741</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1725212142741</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -584,7 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[github.io] draft" />
     <MESSAGE value="[github.io] fix" />
     <MESSAGE value="[github.io] true face of lena" />
     <MESSAGE value="gem" />
@@ -609,7 +607,8 @@
     <MESSAGE value="update portrait" />
     <MESSAGE value="update home page" />
     <MESSAGE value="update video links" />
-    <option name="LAST_COMMIT_MESSAGE" value="update video links" />
+    <MESSAGE value="hide redundant menus" />
+    <option name="LAST_COMMIT_MESSAGE" value="hide redundant menus" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />

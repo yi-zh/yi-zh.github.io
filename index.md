@@ -64,7 +64,7 @@ I am honored to introduce the individuals who shaped my research abilities, stre
 __2024__
 
 * __Jun__ <span style="color:#7fa827">BARON Tutorial:</span>  [EUROPT 2024](https://europt2024.event.lu.se/). 
-* __Jun-Jul__ <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). 
+* <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). 
   * [Video](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s) 
   <iframe width="640" height="360" src="https://www.youtube.com/embed/oCL9npynb6M" title="Solving Continuous and Discrete Nonlinear Programs with BARON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://mailchi.mp/7bb87bcc5909/new-baron-version-24-1-30), [BARON 24.5.8](https://mailchi.mp/4d3f8de3a2cf/new-baron-version-24-5-8).
@@ -72,7 +72,7 @@ __2024__
 __2023__
 
 * __Jun__ <span style="color:#7fa827">Award:</span>  2023 iSoGo Best Theory Paper Award by [__International Society of Global Optimization (iSoGO)__](http://www.globaloptimization.org/).
-* __Jun__ <span style="color:#7fa827">Invited talk:</span>  [WCGO 2023](http://www.globaloptimization.org/conferences/wcgo-2023/).
+* <span style="color:#7fa827">Invited talks:</span>  [WCGO 2023](http://www.globaloptimization.org/conferences/wcgo-2023/), [PanOptiC 2023](https://www.ise.ufl.edu/panoptic/).
 * <span style="color:#7fa827">Code releases:</span>  [BARON 23.1.5](https://mailchi.mp/a9007a0500ea/new-baron-version-23-1-5), [BARON 23.1.5](https://mailchi.mp/a9007a0500ea/new-baron-version-23-1-5), [BARON 23.4.28](https://mailchi.mp/848c42a671f9/new-baron-version-23-4-28), [BARON 23.6.15](https://mailchi.mp/9eaaa14761c0/new-baron-version-23-6-15), [BARON 23.11.13](https://mailchi.mp/582e1e93e3f6/new-baron-version-23-11-13).
 
 <!--
