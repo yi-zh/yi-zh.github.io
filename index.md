@@ -57,9 +57,9 @@ __2024__
 
 * <span style="color:#7fa827">BARON Tutorial:</span>  [EUROPT 2024](https://europt2024.event.lu.se/). 
 * <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). 
-  * [Video](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s)
-      <iframe width="300" height="160" src="https://www.youtube.com/watch?v=oCL9npynb6M&t=428s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://mailchi.mp/7bb87bcc5909/new-baron-version-24-1-30), [BARON 24.5.8](https://mailchi.mp/4d3f8de3a2cf/new-baron-version-24-5-8).
+  * [Video](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s) 
+  <iframe width="2560" height="1440" src="https://www.youtube.com/embed/oCL9npynb6M" title="Solving Continuous and Discrete Nonlinear Programs with BARON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  * <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://mailchi.mp/7bb87bcc5909/new-baron-version-24-1-30), [BARON 24.5.8](https://mailchi.mp/4d3f8de3a2cf/new-baron-version-24-5-8).
 
 __2023__
 
@@ -69,6 +69,7 @@ __2023__
 
 __2022__
 
+* <span style="color:#7fa827">Invited talk:</span>  [WCGO 2023](http://www.globaloptimization.org/conferences/wcgo-2023/).
 * <span style="color:#7fa827">Code releases:</span>  [BARON 22.1.22](https://mailchi.mp/a6dff866d191/new-baron-version-22-1-22), [BARON 22.9.30](https://mailchi.mp/3d7d52b39eff/new-baron-version-22-9-30).
 
 [//]: # (* <span style="color:#7fa827">Senior Area Chair:</span>  [AACL-IJCNLP 2022]&#40;https://www.aacl2022.org/&#41;.)
