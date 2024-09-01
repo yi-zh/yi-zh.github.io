@@ -1,6 +1,6 @@
 ---
 layout: default
-description: I'm Yi Zhang and I work on Natural Language Processing. More details inside!
+description: I'm Yi Zhang and I work on Mathematical Programming and Process System Engineering. More details inside!
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
@@ -12,17 +12,15 @@ description: I'm Yi Zhang and I work on Natural Language Processing. More detail
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
-I am Yi Zhang, an __Optimization Research Scientist__ at [__The Optimization Firm__](https://www.minlp.com) working on global optimization and artificial intelligence. 
+I am Yi Zhang, an __Optimization Research Scientist__ at [__The Optimization Firm__](https://minlp.com/home) working on global optimization and artificial intelligence.
 
-- PhD in Control Science and Engineering with emphasize on modeling, simulation, optimization in process system engineering
+I have been enjoying developing optimization solvers and studying mathematics ever since, and I am still loving every minute of my work. In short, here are the roles that define me:
 
-- Admirer and developer of global mixed-integer nonlinear programming (MINLP) solver: BARON
+- Admirer and developer (2017-Now) of global mixed-integer nonlinear programming (MINLP) solver: [__BARON__](https://minlp.com/baron-solver)
 
-- Interdisciplinary background in optimization, data science, control theory
+- Algorithm Expert (2019-2021) in designing optimization and reinforcement learning algorithms for cross-border e-commerce logistics scenarios in [__Cainiao__](https://www.cainiao.com/en/index.html)
 
-- Exploring academic and career interests through applying reinforcement learning to industrial optimization problems
-
-- Expertise in programming languages (Java, Python, Fortran, R) and solvers (BARON, DICOPT, CPLEX, GUROBI, CBC/CLP, SCIP, etc.)
+- PhD (2014-2019) in Control Science and Engineering, [__Zhejiang University__](http://www.cse.zju.edu.cn/) with emphasize on modeling, simulation, optimization in process system engineering
 
 Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>](https://lena-voita.github.io/nlp_course.html) creator and current [SIGREP](https://www.sigrep.org) president.
 <!--* a __Research Scientist__ at [__FAIR__](https://ai.facebook.com) working on NLP,* current [SIGREP](https://www.sigrep.org) president,* NLP Course <span style="color:#92bf32">For You</span> creator - look [here](https://lena-voita.github.io/nlp_course.html).-->

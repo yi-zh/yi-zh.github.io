@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="fix">
-      <change afterPath="$PROJECT_DIR$/img/people/yi_portrait.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people/foxie.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people/lena-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people/lena_blue.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people/lena_large-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people/orange_lena-min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/people/orange_lena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +48,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -201,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00028" summary="[github.io] add ysda">
-      <created>1556891173685</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1556891173685</updated>
     </task>
     <task id="LOCAL-00029" summary="[github.io] add photo">
       <created>1556891919049</created>
@@ -545,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584516482050</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="update portrait">
+      <created>1725187573050</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1725187573050</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -583,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[github.io] acl 19 papers" />
     <MESSAGE value="[github.io] fix acl19 papers" />
     <MESSAGE value="[github.io] acl19 blog post: initial commit" />
     <MESSAGE value="[github.io] draft" />
@@ -608,7 +608,8 @@
     <MESSAGE value="repl4nlp" />
     <MESSAGE value="update affiliations" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="update portrait" />
+    <option name="LAST_COMMIT_MESSAGE" value="update portrait" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
