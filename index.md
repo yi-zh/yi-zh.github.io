@@ -18,7 +18,7 @@ I have been enjoying developing optimization solvers and studying mathematics ev
 
 - Admirer and developer (2017-Now) of global mixed-integer nonlinear programming (MINLP) solver: [__BARON__](https://minlp.com/baron-solver)
 
-- Algorithm Expert (2019-2021) in designing optimization and reinforcement learning algorithms for cross-border e-commerce logistics scenarios in [__Cainiao-Alibaba Group__](https://www.cainiao.com/en/index.html) and [__LAZADA__](https://www.lazada.com/en/)
+- Algorithm Expert (2019-2021) in designing optimization and reinforcement learning algorithms for cross-border e-commerce logistics scenarios in [__Cainiao-Alibaba Group__](https://www.cainiao.com/en/index.html) and [__Lazada Group__](https://www.lazada.com/en/)
 
 - PhD (2014-2019) in Control Science and Engineering,  [__Zhejiang University__](http://www.cse.zju.edu.cn/), with emphasize on modeling, simulation, optimization in process system engineering
 
@@ -89,11 +89,6 @@ __2017-2021__
 
 
 <!--
-__2023__
-
-* __May-Sept__ <span style="color:#888"><u>Area Chair:</u></span> [EMNLP 2023](https://2023.emnlp.org), [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org).
-* __Jan-March__ <span style="color:#888"><u>Invited talks:</u></span> [TTI Chicago](https://www.ttic.edu/young-researcher/), [RISE Learning Machines seminar](https://www.ri.se/en/learningmachinesseminars), [University of Melbourne](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing).
-* __Jan-Apr__ <span style="color:#888"><u>Area Chair:</u></span> [ACL 2023](https://2023.aclweb.org).
 
 __2022__
 
@@ -105,27 +100,5 @@ __2022__
 * __June-Sept__ <span style="color:#888"><u>Area Chair:</u></span> [EMNLP 2022](https://2022.emnlp.org/).
 * __May-Sept__ <span style="color:#888"><u>Senior Area Chair:</u></span> [AACL-IJCNLP 2022](https://www.aacl2022.org/). 
 * __Feb-June__ Visiting [SARDINE Lab](https://sardine-lab.github.io): [André Martins](https://andre-martins.github.io)'s group at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). 
-
-__2021__
-
-* __Oct-Nov__ <span style="color:#888"><u>Invited talks:</u></span> [Helsinki LT Seminar](https://blogs.helsinki.fi/language-technology/research-seminar/), ["Shannon meets Turing" Colloquium](https://www.youtube.com/channel/UCjltmKOomhdXQELWi6asoBg), "Young Innovators" talks (Austria), [Glasgow IR seminar](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18008).
-* __September__ <span style="color:#888"><u>Papers:</u></span> [NMT Training through the Lens of SMT](https://arxiv.org/abs/2109.01396) is _accepted to __EMNLP__ 2021_.
-* __August__ <span style="color:#888"><u>Keynote:</u></span> [RepL4NLP workshop at ACL 2021](https://sites.google.com/view/repl4nlp-2021/home).
-* __June__ <span style="color:#888"><u>Papers:</u></span> [Source and Target Contributions paper](https://arxiv.org/pdf/2010.10907.pdf) is _accepted to __ACL__ 2021_.
-* __June__ <span style="color:#888"><u>Keynote:</u></span> [DeeLIO workshop at NAACL 2021](https://sites.google.com/view/deelio-ws/).
-* __March-June__ <span style="color:#888"><u>Invited talks:</u></span> [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/), CornellNLP, [MT@UPC](https://mt.cs.upc.edu/seminars/), CambridgeNLP.
-
-__2020__
-* __Nov-Dec__ <span style="color:#888"><u>Invited talks:</u></span> CMU, [USC ISI](https://nlg.isi.edu/nl-seminar/), ENS Paris, [ML Street Talk](https://www.youtube.com/watch?v=Q0kN_ZHHDQY).
-* __September__ <span style="color:#888"><u>Papers:</u></span> __2__ papers _accepted to __EMNLP__ 2020_.
-* __June-Aug__ <span style="color:#888"><u>Invited talks</u></span>: MIT, DeepMind, [Grammarly AI](https://grammarly.ai/information-theoretic-probing-with-minimum-description-length/), Unbabel, [NLP with Friends](https://nlpwithfriends.com).
-* __April__ <span style="color:#888"><u>Papers:</u></span> [BPE-dropout](https://arxiv.org/pdf/1910.13267.pdf) is _accepted to __ACL__ 2020_. 
-* __January__ I'm [awarded Facebook PhD Fellowship](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/).
-* __January__ <span style="color:#888"><u>Keynote:</u></span> NLP track at [Applied Machine Learning Days at EPFL](https://appliedmldays.org/tracks/ai-nlp).
-* __January__ <span style="color:#888"><u>Invited talks</u></span>: [NLP Highlights podcast](https://soundcloud.com/nlp-highlights/98-analyzing-information-flow-in-transformers-with-elena-voita), [Rasa](https://www.meetup.com/ru-RU/Bots-Berlin-Build-better-conversational-interfaces-with-AI/events/267058207/), Google Research Berlin, [Naver Labs Europe](https://europe.naverlabs.com/research/seminars/analyzing-information-flow-in-transformers/).
-
-__2019__
-* __September__ <span style="color:#888"><u>Papers:</u></span> __2__ papers _accepted to __EMNLP__ 2019_, __1__ at __NeurIPS__ _2019_.
-* __May__ <span style="color:#888"><u>Papers:</u></span> __2__ papers _accepted to __ACL__ 2019_, one is oral.
 
 -->
