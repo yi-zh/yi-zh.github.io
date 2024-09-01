@@ -2,7 +2,7 @@
 layout: photolist
 title: Publications
 description: Publications with links to papers, blogs and code.
-menu: yes
+menu: no
 order: 2
 ---
 

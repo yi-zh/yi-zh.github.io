@@ -2,7 +2,7 @@
 layout: photolist
 title: Talks & Service
 description: Links to the talks (slides & video) and service info (reviewing, etc.)
-menu: yes
+menu: no
 order: 3
 ---
 
