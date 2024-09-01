@@ -57,7 +57,7 @@ __2024__
 
 * <span style="color:#7fa827">BARON Tutorial:</span>  [EUROPT 2024](https://europt2024.event.lu.se/). 
 * <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). 
-  * [Video](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
+  * [Video](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s)
       <iframe width="300" height="160" src="https://www.youtube.com/watch?v=oCL9npynb6M&t=428s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://mailchi.mp/7bb87bcc5909/new-baron-version-24-1-30), [BARON 24.5.8](https://mailchi.mp/4d3f8de3a2cf/new-baron-version-24-5-8).
 
