@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="update home page">
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="update video links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00031" summary="[github.io] papers">
-      <created>1556894126583</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1556894126583</updated>
     </task>
     <task id="LOCAL-00032" summary="[github.io] fix">
       <created>1556906025185</created>
@@ -547,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725195052444</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="update video links">
+      <created>1725195858526</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1725195858526</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -585,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[github.io] acl19 blog post: initial commit" />
     <MESSAGE value="[github.io] draft" />
     <MESSAGE value="[github.io] fix" />
     <MESSAGE value="[github.io] true face of lena" />
@@ -610,7 +608,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value="update portrait" />
     <MESSAGE value="update home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="update home page" />
+    <MESSAGE value="update video links" />
+    <option name="LAST_COMMIT_MESSAGE" value="update video links" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
