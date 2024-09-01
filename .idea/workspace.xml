@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="update portrait">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="update home page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,13 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00029" summary="[github.io] add photo">
-      <created>1556891919049</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1556891919049</updated>
     </task>
     <task id="LOCAL-00030" summary="[github.io] papers: initial">
       <created>1556893192707</created>
@@ -546,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725187573050</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="update home page">
+      <created>1725194645168</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1725194645168</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -584,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[github.io] fix acl19 papers" />
     <MESSAGE value="[github.io] acl19 blog post: initial commit" />
     <MESSAGE value="[github.io] draft" />
     <MESSAGE value="[github.io] fix" />
@@ -609,7 +605,8 @@
     <MESSAGE value="update affiliations" />
     <MESSAGE value="fix" />
     <MESSAGE value="update portrait" />
-    <option name="LAST_COMMIT_MESSAGE" value="update portrait" />
+    <MESSAGE value="update home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="update home page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
