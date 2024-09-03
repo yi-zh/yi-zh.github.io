@@ -73,7 +73,7 @@ __2023__
 
 * __Jun__ <span style="color:#7fa827">Award:</span>  2023 iSoGo Best Theory Paper Award by [__International Society of Global Optimization (iSoGO)__](http://www.globaloptimization.org/).
 * <span style="color:#7fa827">Invited talks:</span>  [WCGO 2023](http://www.globaloptimization.org/conferences/wcgo-2023/), [PanOptiC 2023](https://www.ise.ufl.edu/panoptic/).
-* <span style="color:#7fa827">Code releases:</span>  [BARON 23.1.5](https://mailchi.mp/a9007a0500ea/new-baron-version-23-1-5), [BARON 23.1.5](https://mailchi.mp/a9007a0500ea/new-baron-version-23-1-5), [BARON 23.4.28](https://mailchi.mp/848c42a671f9/new-baron-version-23-4-28), [BARON 23.6.15](https://mailchi.mp/9eaaa14761c0/new-baron-version-23-6-15), [BARON 23.11.13](https://mailchi.mp/582e1e93e3f6/new-baron-version-23-11-13).
+* <span style="color:#7fa827">Code releases:</span>  [BARON 23.1.5](https://mailchi.mp/a9007a0500ea/new-baron-version-23-1-5), [BARON 23.4.28](https://mailchi.mp/848c42a671f9/new-baron-version-23-4-28), [BARON 23.6.15](https://mailchi.mp/9eaaa14761c0/new-baron-version-23-6-15), [BARON 23.11.13](https://mailchi.mp/582e1e93e3f6/new-baron-version-23-11-13).
 
 <!--
 __2022__

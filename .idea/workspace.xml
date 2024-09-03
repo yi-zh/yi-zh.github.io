@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="hide redundant menus">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="slight modification" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,13 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00040" summary="[github.io] fix">
-      <created>1559559678793</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1559559678793</updated>
     </task>
     <task id="LOCAL-00041" summary="[github.io] acl19 blog post: initial commit">
       <created>1560618992944</created>
@@ -545,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725212142741</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="slight modification">
+      <created>1725212985295</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1725212985295</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -583,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[github.io] fix" />
     <MESSAGE value="[github.io] true face of lena" />
     <MESSAGE value="gem" />
     <MESSAGE value="add twitter button to the post" />
@@ -608,7 +605,8 @@
     <MESSAGE value="update home page" />
     <MESSAGE value="update video links" />
     <MESSAGE value="hide redundant menus" />
-    <option name="LAST_COMMIT_MESSAGE" value="hide redundant menus" />
+    <MESSAGE value="slight modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="slight modification" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
