@@ -20,7 +20,7 @@ I have been enjoying developing optimization solvers and studying mathematics ev
 
 - Algorithm Expert (2019-2021) in designing optimization and reinforcement learning algorithms for cross-border e-commerce logistics scenarios in [__Cainiao-Alibaba Group__](https://www.cainiao.com/en/index.html) and [__Lazada Group__](https://www.lazada.com/en/)
 
-- PhD (2014-2019) in Control Science and Engineering,  [__Zhejiang University__](http://www.cse.zju.edu.cn/), with emphasize on modeling, simulation, optimization in process system engineering
+- PhD (2014-2019) in Control Science and Engineering,  [__Zhejiang University__](http://www.cse.zju.edu.cn/), with emphasis on modeling, simulation, optimization in process system engineering
 
 - Researcher that never retires and always enjoys studying
 

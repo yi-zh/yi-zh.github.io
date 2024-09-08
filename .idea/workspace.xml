@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="slight modification" />
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="slight modification">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,13 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00041" summary="[github.io] acl19 blog post: initial commit">
-      <created>1560618992944</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1560618992945</updated>
     </task>
     <task id="LOCAL-00042" summary="[github.io] draft">
       <created>1560620456340</created>
@@ -543,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725212985295</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="slight modification">
+      <created>1725376846548</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1725376846548</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="ToolWindowManager">
