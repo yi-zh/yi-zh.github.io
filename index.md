@@ -62,7 +62,8 @@ I am honored to introduce the individuals who shaped my research abilities, stre
 
 ## <span style="color:darkblue">News </span>
 __2024__
-
+* __Dec__ <span style="color:#7fa827">New publication:</span>  
+  * Zhang, Y., Sahinidis, N.V. [__Solving continuous and discrete nonlinear programs with BARON__](https://doi.org/10.1007/s10589-024-00633-0). Comput Optim Appl (2024).
 * __Jun__ <span style="color:#7fa827">BARON Tutorial:</span>  [EUROPT 2024](https://europt2024.event.lu.se/). 
 * <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). 
   * [Video](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s) 
