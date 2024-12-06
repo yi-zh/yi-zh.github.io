@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="new post">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,13 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00048" summary="mention the &quot;16 heads&quot; paper :)">
-      <created>1561123903534</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1561123903534</updated>
     </task>
     <task id="LOCAL-00049" summary="add link to the joost's paper">
       <created>1561287351824</created>
@@ -554,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733491494784</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="new post">
+      <created>1733493295415</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1733493295415</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="ToolWindowManager">
