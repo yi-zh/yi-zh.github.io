@@ -50,7 +50,15 @@ order: 1
 
 
 <span style="font-size:14px;">
-This is a post for the JOGO 2020 paper
+    Optimal points in linear optimization problems are known to lie on the boundary of the feasible region,
+    while solutions to continuous nonlinear optimization problems must satisfy the Karush-Kuhn-Tucker (KKT) conditions.
+    However, mixed-integer nonlinear programming (MINLP) problems lack such straightforward and well-defined optimality
+    conditions. In this work, we propose novel optimality conditions for MINLP and present an efficient implementation
+    of new domain reduction techniques based on these conditions. These techniques have been integrated into the global
+    MINLP solver BARON since 2018, resulting in significant speed-ups, as demonstrated by computational experiments
+    across a broad collection of benchmark NLP and MINLP libraries.
+
+    This is a post for the JOGO 2020 paper
     <a href="https://link.springer.com/article/10.1007/s10898-020-00886-z" target="_blank">
             Optimality-based domain reduction for inequality-constrained NLP and MINLP problems
     </a>
@@ -62,12 +70,10 @@ This is a post for the JOGO 2020 paper
 <span style="font-size:15px;">
 From this post, you will learn:
 <ul>
-  <li>editing</li>
-<!--  <li>how we create test sets addressing the most frequent phenomena</li>-->
-<!--    <li>about a novel set-up for context-aware NMT with a large amount of sentence-level data and-->
-<!--        much less of document-level data</li>-->
-<!--  <li>about a new model for this set-up (<font color="#CA6F1E">C</font>ontext-<font color="#CA6F1E">A</font>ware-->
-<!--      <font color="#CA6F1E">Dec</font>oder, aka <font color="#CA6F1E">CADec</font>) - a two-pass MT model which first produces a draft translation of the current sentence, then corrects it using context.</li>-->
+    <li>Bound propagation on gradients</li>
+    <li>Domain reduction</li>
+    <li>KKT conditions</li>
+  <li>about a new model for this set-up (<font color="#CA6F1E">C</font>ontext-<font color="#CA6F1E">A</font>ware
 </ul>
 </span>
 
