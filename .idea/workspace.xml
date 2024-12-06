@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="simplify the videos in posts">
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_more-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_more-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_more.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_more.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_more_push-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_more_push-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_more_push.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_more_push.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_paper-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_paper-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_paper.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_paper.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_paper_push-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_paper_push-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_read_paper_push.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_read_paper_push.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_view_code-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_view_code-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_view_code.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_view_code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_view_code_push-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_view_code_push-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/posts/reference/buttons/button_view_code_push.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/posts/buttons/button_view_code_push.png" afterDir="false" />
-    </list>
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="simplify the videos in posts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00053" summary="emnlp news">
-      <created>1566073363666</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1566073363666</updated>
     </task>
     <task id="LOCAL-00054" summary="update students">
       <created>1568190282026</created>
@@ -565,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733494078329</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="simplify the videos in posts">
+      <created>1733494510930</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1733494510931</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="ToolWindowManager">
