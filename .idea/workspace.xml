@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="new post">
-      <change beforePath="$PROJECT_DIR$/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts.html" afterDir="false" />
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="drop twitter from footer.html">
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,20 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00049" summary="add link to the joost's paper">
-      <created>1561287351824</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1561287351824</updated>
-    </task>
-    <task id="LOCAL-00050" summary="nlp summit">
-      <created>1561474454468</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1561474454474</updated>
     </task>
     <task id="LOCAL-00051" summary="fix yr link">
       <created>1564075783082</created>
@@ -553,7 +539,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733493295415</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="new post">
+      <created>1733493333546</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1733493333546</updated>
+    </task>
+    <task id="LOCAL-00099" summary="drop twitter from footer.html">
+      <created>1733493644528</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1733493644528</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -591,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="gem" />
     <MESSAGE value="add twitter button to the post" />
     <MESSAGE value="mention the &quot;16 heads&quot; paper :)" />
     <MESSAGE value="add link to the joost's paper" />
@@ -616,7 +615,8 @@
     <MESSAGE value="hide redundant menus" />
     <MESSAGE value="slight modification" />
     <MESSAGE value="new post" />
-    <option name="LAST_COMMIT_MESSAGE" value="new post" />
+    <MESSAGE value="drop twitter from footer.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="drop twitter from footer.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
