@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="slight modification">
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="new post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts.html" afterDir="false" />
     </list>
@@ -209,13 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00042" summary="[github.io] draft">
-      <created>1560620456340</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1560620456340</updated>
     </task>
     <task id="LOCAL-00043" summary="[github.io] true face of lena">
       <created>1560622582801</created>
@@ -553,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725376846548</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="new post">
+      <created>1733484569633</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1733484569633</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -591,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[github.io] true face of lena" />
     <MESSAGE value="gem" />
     <MESSAGE value="add twitter button to the post" />
     <MESSAGE value="mention the &quot;16 heads&quot; paper :)" />
@@ -616,7 +615,8 @@
     <MESSAGE value="update video links" />
     <MESSAGE value="hide redundant menus" />
     <MESSAGE value="slight modification" />
-    <option name="LAST_COMMIT_MESSAGE" value="slight modification" />
+    <MESSAGE value="new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="new post" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
