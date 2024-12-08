@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="simplify the videos in posts">
-      <change afterPath="$PROJECT_DIR$/resources/posts/kkt_minlp/kkt_minlp_demo_s.gif" afterDir="false" />
+    <list default="true" id="761392bc-7f53-4674-a9c2-966e5c9edf64" name="Default" comment="update gif">
+      <change afterPath="$PROJECT_DIR$/resources/posts/dos_modeling/dos_modeling_demo_s.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/posts/marl_mapf/marl_mapf_demo_s.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts.html" afterDir="false" />
@@ -197,10 +198,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/posts/marl_mapf" />
+      <recent name="$PROJECT_DIR$/resources/posts/dos_modeling" />
       <recent name="$PROJECT_DIR$/resources/posts/kkt_minlp" />
       <recent name="$PROJECT_DIR$/resources/posts" />
       <recent name="$PROJECT_DIR$/resources/posts/reference" />
-      <recent name="$PROJECT_DIR$/img/people" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -214,13 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555792211203</updated>
-    </task>
-    <task id="LOCAL-00055" summary="fix">
-      <created>1568277666214</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1568277666214</updated>
     </task>
     <task id="LOCAL-00056" summary="update the evolution post">
       <created>1568561973597</created>
@@ -558,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733494904659</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="update gif">
+      <created>1733669559480</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1733669559481</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -596,7 +598,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mention the &quot;16 heads&quot; paper :)" />
     <MESSAGE value="add link to the joost's paper" />
     <MESSAGE value="nlp summit" />
     <MESSAGE value="fix yr link" />
@@ -621,7 +622,8 @@
     <MESSAGE value="new post" />
     <MESSAGE value="drop twitter from footer.html" />
     <MESSAGE value="simplify the videos in posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="simplify the videos in posts" />
+    <MESSAGE value="update gif" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gif" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/posts/concrete.html" />
