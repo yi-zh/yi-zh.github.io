@@ -61,6 +61,16 @@ I am honored to introduce the individuals who shaped my research abilities, stre
 [//]: # (<!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here]&#40;https://lena-voita.github.io/nlp_course.html&#41;.-->)
 
 ## <span style="color:darkblue">News </span>
+
+__2025__
+* __Jun__ <span style="color:#7fa827">New publication:</span>
+  * Zhang, Y., Sahinidis, N.V. [__Learning to deactivate probing with graph convolutional network for mixed-integer nonlinear programming__](https://doi.org/10.1007/s11590-025-02208-2). Optim Lett (2025).
+    * [__Source code__](https://github.com/yi-zh/minlp-gcn) is available for constructing GCN for general learning problems in Mixed-Integer Nonlinear Programming (MINLP)
+* __Apr__ <span style="color:#7fa827">Open-source code:</span>
+  * [__Black-box solver performance visualizer (BBOviz)__](https://github.com/yi-zh/bboviz). Developed by Zhang, Y. and Sahinidis, N.V.
+    * A Python script for analyzing and visualizing the performance of black-box solvers.
+* <span style="color:#7fa827">Code releases:</span>  [BARON 25.2.1](https://mailchi.mp/02814ca56f50/new-baron-version-25-2-1).
+
 __2024__
 * __Dec__ <span style="color:#7fa827">New publication:</span>
   * Zhang, Y., Sahinidis, N.V. [__Solving continuous and discrete nonlinear programs with BARON__](https://doi.org/10.1007/s10589-024-00633-0). Comput Optim Appl (2024).
