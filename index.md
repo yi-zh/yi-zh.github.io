@@ -20,7 +20,7 @@ I have been enjoying developing optimization solvers and studying mathematics ev
 
 - Algorithm Expert (2019-2021) in designing optimization and reinforcement learning algorithms for cross-border e-commerce logistics scenarios in [__Cainiao-Alibaba Group__](https://www.cainiao.com/en/index.html) and [__Lazada Group__](https://www.lazada.com/en/)
 
-- PhD (2014-2019) in Control Science and Engineering,  [__Zhejiang University__](http://www.cse.zju.edu.cn/), with emphasis on modeling, simulation, optimization in process system engineering
+- PhD (2014-2019) in Control Science and Engineering,  [__Zhejiang University__](http://www.cse.zju.edu.cn/), Collaborator (2017-2021) with [__CAPD of Carnegie Mellon University__](https://capd.cheme.cmu.edu/), with emphasis on modeling, simulation, optimization in process system engineering
 
 - Researcher that never retires and always enjoys studying
 
@@ -28,7 +28,7 @@ I have been enjoying developing optimization solvers and studying mathematics ev
 
 My current research focuses on advancing theories and algorithms in global optimization for Mixed-Integer Nonlinear Programming (MINLP), developing AI-powered optimization software, and enabling data-driven decision-making in manufacturing. Among all the projects I'm working on, now I have a particular interest in [The Pooling Problem](https://link.springer.com/chapter/10.1007/978-1-4757-3532-1_9) and [Quadratic Unconstrained Binary Optimization (QUBO)](https://en.wikipedia.org/wiki/Quadratic_unconstrained_binary_optimization).
 
-In my research journey (as some might see on [Google Scholar](https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en)), I enjoyed collaborating with outstanding professionals—whether students, engineers, or professors—to achieve meaningful breakthroughs, step by step. For more details of my experience, please check my [LinkedIn](https://www.linkedin.com/in/yi-zhang-433567132/).
+In my research journey (as some might see on [Google Scholar](https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en)), I enjoyed collaborating with outstanding professionals to achieve meaningful breakthroughs, step by step. For more details of my experience, please check my [LinkedIn](https://www.linkedin.com/in/yi-zhang-433567132/).
 
 <!--
 Before beginning my true research journey (as some might see on [Google Scholar](https://scholar.google.com/citations?user=QAZD5GMAAAAJ&hl=en)), I had always envisioned becoming a teacher, unaware of terms like 'academic' or 'professor.' However, destiny led me down a slightly different path, where I discovered that my true goal is to collaborate with outstanding professionals—whether students, engineers, or professors—to achieve meaningful breakthroughs, step by step. I may take on various roles within a team, not necessarily as the leader, but I always position myself to be responsible for driving the core advancements.
