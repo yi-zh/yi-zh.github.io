@@ -7,248 +7,319 @@ order: 1
 ---
 
 <style>
-
-  #thumbnail {
-    box-shadow: 0 5px 10px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);
-  }
-  #thumbnail:hover {
-    box-shadow: 0 12px 24px rgba(0,0,0,0.19), 0 8px 8px rgba(0,0,0,0.23);
+  .blog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
   }
 
-  .fullCard {
-    width: 750px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin: 10px 5px;
-    padding: 4px;
-
-  }
-  .cardContent {
-    padding: 10px;
-
+  .category-section {
+    margin-bottom: 60px;
   }
 
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  .category-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #000;
   }
 
-  .category-header {
-    font-size: 32px;
-    color: darkblue;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 10px;
-  }
-
-  .category-description {
+  .category-subtitle {
     font-size: 16px;
     color: #666;
     margin-bottom: 30px;
+    line-height: 1.6;
   }
 
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+  }
+
+  .post-card {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .post-card:hover {
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    transform: translateY(-4px);
+  }
+
+  .post-image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .post-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .post-content {
+    padding: 24px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post-title {
+    font-size: 22px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 12px;
+    line-height: 1.3;
+  }
+
+  .post-title a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .post-title a:hover {
+    color: #0066cc;
+  }
+
+  .post-excerpt {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 16px;
+    flex: 1;
+  }
+
+  .post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 16px;
+    border-top: 1px solid #eee;
+  }
+
+  .post-date {
+    font-size: 13px;
+    color: #999;
+  }
+
+  .post-tags {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+
+  .post-tag {
+    font-size: 12px;
+    color: #0066cc;
+    background: #e6f2ff;
+    padding: 4px 10px;
+    border-radius: 4px;
+  }
+
+  .read-more-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.3s ease;
+  }
+
+  .read-more-btn:hover {
+    background: #333;
+  }
+
+  .citation {
+    font-size: 13px;
+    color: #666;
+    background: #f9f9f9;
+    padding: 12px;
+    border-left: 3px solid #0066cc;
+    margin: 12px 0;
+    line-height: 1.5;
+  }
+
+  .citation a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  .citation a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 768px) {
+    .posts-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .category-title {
+      font-size: 28px;
+    }
+  }
 </style>
 
-<!-- ################################################################################### -->
-<!-- THEORETICAL RESEARCH -->
-<!-- ################################################################################### -->
+<div class="blog-container">
 
-<h2 class="category-header">Theoretical Research</h2>
-<p class="category-description">Fundamental contributions to optimization theory and algorithms.</p>
-
-<div class="fullCard" id="thumbnail" >
-    <div class="cardContent">
-        <h1 style="font-size:28px;">Optimality Conditions for Mixed-Integer Nonlinear Programming (MINLP) </h1>
-
-
-<!--<video width="380" height="auto" style="float: right" loop autoplay muted>-->
-<!--  <source src="../resources/posts/kkt_minlp/kkt_minlp_demo.mp4" type="video/mp4">-->
-<!--</video>-->
-
-<img src="../resources/posts/kkt_minlp/kkt_minlp_demo_s.gif" alt="KKT MINLP Demo" width="380" style="float: right;">
-
-<span style="font-size:14px;">
-    Optimal points in linear optimization problems are known to lie on the boundary of the feasible region,
-    while solutions to continuous nonlinear optimization problems must satisfy the Karush-Kuhn-Tucker (KKT) conditions.
-    However, mixed-integer nonlinear programming (MINLP) problems lack such straightforward and well-defined optimality
-    conditions. In this work, we propose novel optimality conditions for MINLP and present an efficient implementation
-    of new domain reduction techniques based on these conditions. These techniques have been integrated into the global
-    MINLP solver BARON since 2018, resulting in significant speed-ups, as demonstrated by computational experiments
-    across a broad collection of benchmark NLP and MINLP libraries.
-</span>
-
-<br/>
-<br/>
-<span style="font-size:14px;">
-    Cite:
-    <br/>
-    Zhang, Y., Sahinidis, N.V., Nohra, C. et al.
-    <a href="https://doi.org/10.1007/s10898-020-00886-z" target="_blank">
-            Optimality-based domain reduction for inequality-constrained NLP and MINLP problems
-    </a>
-    J Glob Optim 77, 425–454 (2020).
-</span>
-
-<br/>
-<br/>
-<span style="font-size:15px;">
-From this work, you will learn:
-<ul>
-    <li>Bound propagation on gradients</li>
-    <li>Domain reduction</li>
-    <li>KKT conditions</li>
-</ul>
-</span>
-
-<!--<a class="pull-right" href="/posts/acl19_context.html"-->
-<!--   onMouseOver="document.readmore2.src='../resources/posts/buttons/button_read_more_push-min.png';"-->
-<!--   onMouseOut="document.readmore2.src='../resources/posts/buttons/button_read_more-min.png';">-->
-<!--<img src="../resources/posts/buttons/button_read_more-min.png" name="readmore2" width=120px class="pull-right"></a>-->
-
-<a class="pull-right" href="https://doi.org/10.1007/s10898-020-00886-z"
-   target="_blank"onMouseOver="document.readpaper2.src='../resources/posts/buttons/button_read_paper_push-min.png';"
-   onMouseOut="document.readpaper2.src='../resources/posts/buttons/button_read_paper-min.png';">
-<img src="../resources/posts/buttons/button_read_paper-min.png" name="readpaper2" width=120px class="pull-right"></a>
-
-<a class="pull-right" href="https://minlp.com/baron-downloads" target="_blank"
-   onMouseOver="document.viewcode2.src='../resources/posts/buttons/button_view_code_push-min.png';"
-   onMouseOut="document.viewcode2.src='../resources/posts/buttons/button_view_code-min.png';">
-<img src="../resources/posts/buttons/button_view_code-min.png" name="viewcode2" width=120px></a>
-
-<span style="font-size:15px; text-align: right; float: right; color:gray">June 2020</span>
+  <!-- THEORETICAL RESEARCH SECTION -->
+  <section class="category-section">
+    <h2 class="category-title">Theoretical Research</h2>
+    <p class="category-subtitle">Fundamental contributions to optimization theory and algorithms</p>
+    
+    <div class="posts-grid">
+      <!-- Card 1: KKT MINLP -->
+      <article class="post-card">
+        <div class="post-image">
+          <img src="../resources/posts/kkt_minlp/kkt_minlp_demo_s.gif" alt="KKT MINLP Demo">
+        </div>
+        <div class="post-content">
+          <h3 class="post-title">
+            <a href="https://doi.org/10.1007/s10898-020-00886-z" target="_blank">
+              Optimality Conditions for Mixed-Integer Nonlinear Programming
+            </a>
+          </h3>
+          
+          <div class="post-tags">
+            <span class="post-tag">KKT Conditions</span>
+            <span class="post-tag">Domain Reduction</span>
+            <span class="post-tag">MINLP</span>
+          </div>
+          
+          <p class="post-excerpt">
+            Optimal points in linear optimization problems are known to lie on the boundary of the feasible region, 
+            while solutions to continuous nonlinear optimization problems must satisfy the Karush-Kuhn-Tucker (KKT) conditions. 
+            However, mixed-integer nonlinear programming (MINLP) problems lack such straightforward and well-defined optimality 
+            conditions. In this work, we propose novel optimality conditions for MINLP and present an efficient implementation 
+            of new domain reduction techniques based on these conditions.
+          </p>
+          
+          <div class="citation">
+            Zhang, Y., Sahinidis, N.V., Nohra, C. et al. 
+            <a href="https://doi.org/10.1007/s10898-020-00886-z" target="_blank">
+              Optimality-based domain reduction for inequality-constrained NLP and MINLP problems
+            </a>
+            <em>J Glob Optim</em> 77, 425–454 (2020).
+          </div>
+          
+          <div class="post-meta">
+            <span class="post-date">June 2020</span>
+            <a href="https://minlp.com/baron-downloads" target="_blank" class="read-more-btn">View in BARON</a>
+          </div>
+        </div>
+      </article>
     </div>
-</div>
+  </section>
 
-
-<!-- ################################################################################### -->
-<!-- APPLICATIONS -->
-<!-- ################################################################################### -->
-
-<h2 class="category-header">Applications</h2>
-<p class="category-description">Real-world applications of optimization and AI in industry.</p>
-
-<div class="fullCard" id="thumbnail" >
-    <div class="cardContent">
-        <h1 style="font-size:28px;">Deep Reinforcement Learning for Online AGV Path Finding</h1>
-
-
-<!--        <video width="380" height="auto" style="float: right" loop autoplay muted>-->
-<!--            <source src="../resources/posts/marl_mapf/marl_mapf_demo.mp4" type="video/mp4">-->
-<!--        </video>-->
-        <img src="../resources/posts/marl_mapf/marl_mapf_demo_s.gif" alt="MARL MAPF Demo" width="380" style="float: right;">
-
-
-        <span style="font-size:14px;">
-            Multi-agent pathfinding (MAPF) naturally arises in applications such as the pick-up and drop-off of
-            parcels by automated guided vehicles (AGVs) in warehouses. Existing algorithms, such as Conflict-Based
-            Search (CBS), Windowed Hierarchical Cooperative A* (WHCA), and other A* variants, are widely used to find
-            shortest paths in various ways. However, in real-world environments, MAPF problems are dynamically generated
-            and must be solved in real time. We propose a decentralized multi-agent reinforcement learning (MARL)
-            framework combined with a multi-step ahead tree search (MATS) strategy to make efficient decisions. Through
-            experiments on both numerical cases and real-world warehouse scenarios, our proposed MARL policy
-            demonstrates better performance in problem scale, solution time, and length of paths than classical methods.
-        </span>
-
-        <br/>
-        <br/>
-        <span style="font-size:14px;">
-    Cite:
-    <br/>
-    Zhang, Y., Qian, Y., Yao, Y.C. et al.
-    <a href="https://aamas.csc.liv.ac.uk/Proceedings/aamas2020/pdfs/p2077.pdf" target="_blank">
-        Learning to cooperate: Application of deep reinforcement learning for online AGV path finding
-    </a>
-    . Proceedings of the 19th International Conference on autonomous agents and multiagent systems, 2077-2079 (2020).
-</span>
-
-        <br/>
-        <br/>
-        <span style="font-size:15px;">
-From this work, you will learn:
-<ul>
-    <li>Multi-agent path finding (MAPF)</li>
-    <li>Multi-agent reinforcement learning (MARL)</li>
-</ul>
-</span>
-
-        <!--<a class="pull-right" href="/posts/acl19_context.html"-->
-        <!--   onMouseOver="document.readmore2.src='../resources/posts/buttons/button_read_more_push-min.png';"-->
-        <!--   onMouseOut="document.readmore2.src='../resources/posts/buttons/button_read_more-min.png';">-->
-        <!--<img src="../resources/posts/buttons/button_read_more-min.png" name="readmore2" width=120px class="pull-right"></a>-->
-
-        <a class="pull-right" href="https://aamas.csc.liv.ac.uk/Proceedings/aamas2020/pdfs/p2077.pdf"
-           target="_blank"onMouseOver="document.readpaper2.src='../resources/posts/buttons/button_read_paper_push-min.png';"
-           onMouseOut="document.readpaper2.src='../resources/posts/buttons/button_read_paper-min.png';">
-            <img src="../resources/posts/buttons/button_read_paper-min.png" name="readpaper2" width=120px class="pull-right"></a>
-
-<!--        <a class="pull-right" href="https://minlp.com/baron-downloads" target="_blank"-->
-<!--           onMouseOver="document.viewcode2.src='../resources/posts/buttons/button_view_code_push-min.png';"-->
-<!--           onMouseOut="document.viewcode2.src='../resources/posts/buttons/button_view_code-min.png';">-->
-<!--            <img src="../resources/posts/buttons/button_view_code-min.png" name="viewcode2" width=120px></a>-->
-
-        <span style="font-size:15px; text-align: right; float: right; color:gray">May 2020</span>
+  <!-- APPLICATIONS SECTION -->
+  <section class="category-section">
+    <h2 class="category-title">Applications</h2>
+    <p class="category-subtitle">Real-world applications of optimization and AI in industry</p>
+    
+    <div class="posts-grid">
+      <!-- Card 2: MARL MAPF -->
+      <article class="post-card">
+        <div class="post-image">
+          <img src="../resources/posts/marl_mapf/marl_mapf_demo_s.gif" alt="MARL MAPF Demo">
+        </div>
+        <div class="post-content">
+          <h3 class="post-title">
+            <a href="https://aamas.csc.liv.ac.uk/Proceedings/aamas2020/pdfs/p2077.pdf" target="_blank">
+              Deep Reinforcement Learning for Online AGV Path Finding
+            </a>
+          </h3>
+          
+          <div class="post-tags">
+            <span class="post-tag">MARL</span>
+            <span class="post-tag">MAPF</span>
+            <span class="post-tag">Warehouse Logistics</span>
+          </div>
+          
+          <p class="post-excerpt">
+            Multi-agent pathfinding (MAPF) naturally arises in applications such as the pick-up and drop-off of 
+            parcels by automated guided vehicles (AGVs) in warehouses. We propose a decentralized multi-agent 
+            reinforcement learning (MARL) framework combined with a multi-step ahead tree search (MATS) strategy 
+            to make efficient decisions. Through experiments on both numerical cases and real-world warehouse scenarios, 
+            our proposed MARL policy demonstrates better performance in problem scale, solution time, and length of paths 
+            than classical methods.
+          </p>
+          
+          <div class="citation">
+            Zhang, Y., Qian, Y., Yao, Y.C. et al. 
+            <a href="https://aamas.csc.liv.ac.uk/Proceedings/aamas2020/pdfs/p2077.pdf" target="_blank">
+              Learning to cooperate: Application of deep reinforcement learning for online AGV path finding
+            </a>
+            <em>AAMAS 2020</em>, 2077-2079.
+          </div>
+          
+          <div class="post-meta">
+            <span class="post-date">May 2020</span>
+            <a href="https://aamas.csc.liv.ac.uk/Proceedings/aamas2020/pdfs/p2077.pdf" target="_blank" class="read-more-btn">Read Paper</a>
+          </div>
+        </div>
+      </article>
     </div>
-</div>
+  </section>
 
-
-<!-- ################################################################################### -->
-<!-- SOFTWARE -->
-<!-- ################################################################################### -->
-
-<h2 class="category-header">Software</h2>
-<p class="category-description">Software tools and frameworks for large-scale optimization.</p>
-
-<div class="fullCard" id="thumbnail" >
-    <div class="cardContent">
-        <h1 style="font-size:28px;">Optimization in the Cloud for Large-Scale Problems</h1>
-
-
-<!--        <video width="380" height="auto" style="float: right" loop autoplay muted>-->
-<!--            <source src="../resources/posts/dos_modeling/dos_modeling_demo.mp4" type="video/mp4">-->
-<!--        </video>-->
-        <img src="../resources/posts/dos_modeling/dos_modeling_demo_s.gif" alt="DOS MODELING Demo" width="380" style="float: right;">
-
-        <span style="font-size:14px;">
-    In many real-world applications, optimization models can scale to over 10 million variables with sparse coefficient
-            matrices, as seen in logistics assignment problems. Traditional optimization solvers, which typically
-            operate in standalone mode, often struggle to handle such memory-intensive cases. To address this challenge,
-            we propose a distributed optimization framework that constructs and presolves models in a streaming mode.
-            This framework decomposes large-scale optimization problems into sub-blocks and solves them in a distributed
-            manner. It is particularly effective for problems with block-diagonal structures and ensures balanced
-            computational loads across all nodes.
-
-</span>
-
-        <br/>
-        <br/>
-        <span style="font-size:15px;">
-From this work, you will learn:
-<ul>
-    <li>Modeling in streaming mode</li>
-    <li>Presolve and decompose a model in cloud</li>
-    <li>Distributed optimization</li>
-</ul>
-</span>
-
-        <a class="pull-right" href="/posts/dummy.html"
-           onMouseOver="document.readmore2.src='../resources/posts/buttons/button_read_more_push-min.png';"
-           onMouseOut="document.readmore2.src='../resources/posts/buttons/button_read_more-min.png';">
-            <img src="../resources/posts/buttons/button_read_more-min.png" name="readmore2" width=120px class="pull-right"></a>
-
-        <!--        <a class="pull-right" href="https://doi.org/10.1007/s10898-020-00886-z"-->
-        <!--           target="_blank"onMouseOver="document.readpaper2.src='../resources/posts/buttons/button_read_paper_push-min.png';"-->
-        <!--           onMouseOut="document.readpaper2.src='../resources/posts/buttons/button_read_paper-min.png';">-->
-        <!--            <img src="../resources/posts/buttons/button_read_paper-min.png" name="readpaper2" width=120px class="pull-right"></a>-->
-
-        <!--        <a class="pull-right" href="https://minlp.com/baron-downloads" target="_blank"-->
-        <!--           onMouseOver="document.viewcode2.src='../resources/posts/buttons/button_view_code_push-min.png';"-->
-        <!--           onMouseOut="document.viewcode2.src='../resources/posts/buttons/button_view_code-min.png';">-->
-        <!--            <img src="../resources/posts/buttons/button_view_code-min.png" name="viewcode2" width=120px></a>-->
-
-        <span style="font-size:15px; text-align: right; float: right; color:gray">June 2019</span>
+  <!-- SOFTWARE SECTION -->
+  <section class="category-section">
+    <h2 class="category-title">Software</h2>
+    <p class="category-subtitle">Software tools and frameworks for large-scale optimization</p>
+    
+    <div class="posts-grid">
+      <!-- Card 3: Cloud Optimization -->
+      <article class="post-card">
+        <div class="post-image">
+          <img src="../resources/posts/dos_modeling/dos_modeling_demo_s.gif" alt="Distributed Optimization Demo">
+        </div>
+        <div class="post-content">
+          <h3 class="post-title">
+            <a href="#cloud-optimization">
+              Optimization in the Cloud for Large-Scale Problems
+            </a>
+          </h3>
+          
+          <div class="post-tags">
+            <span class="post-tag">Distributed Computing</span>
+            <span class="post-tag">Cloud Optimization</span>
+            <span class="post-tag">Streaming Mode</span>
+          </div>
+          
+          <p class="post-excerpt">
+            In many real-world applications, optimization models can scale to over 10 million variables with sparse 
+            coefficient matrices, as seen in logistics assignment problems. Traditional optimization solvers, which 
+            typically operate in standalone mode, often struggle to handle such memory-intensive cases. To address 
+            this challenge, we propose a distributed optimization framework that constructs and presolves models in 
+            a streaming mode. This framework decomposes large-scale optimization problems into sub-blocks and solves 
+            them in a distributed manner.
+          </p>
+          
+          <div class="post-meta">
+            <span class="post-date">June 2019</span>
+            <a href="#cloud-optimization" class="read-more-btn">Read More</a>
+          </div>
+        </div>
+      </article>
     </div>
-</div>
+  </section>
 
-<!-- ################################################################################### -->
+</div>
