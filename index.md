@@ -8,7 +8,6 @@ description: I'm Yi Zhang and I work on Mathematical Programming and Process Sys
 <!--![i_am_a_fox](./img/people/orange_lena-min.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}-->
 ![i_am_a_fox](./img/people/yi_portrait.jpeg){: style="float: right; margin: 0px 20px; width: 250px; border-radius: 50%" name="fox"}
 
-
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/orange_lena-min.jpg';">
 <img src="/img/people/orange_lena-min.jpg" name="readmore_1" width=204px height=240px></a> -->
 
@@ -43,22 +42,6 @@ I am honored to introduce the individuals who shaped my research abilities, stre
 - Prof. Yiping Feng
 
 !-->
-
-
-
-[//]: # (Also, [__NLP Course__ <span style="color:#92bf32">__For You__</span>]&#40;https://lena-voita.github.io/nlp_course.html&#41; creator and current [SIGREP]&#40;https://www.sigrep.org&#41; president.)
-
-[//]: # (<!--* a __Research Scientist__ at [__FAIR__]&#40;https://ai.facebook.com&#41; working on NLP,* current [SIGREP]&#40;https://www.sigrep.org&#41; president,* NLP Course <span style="color:#92bf32">For You</span> creator - look [here]&#40;https://lena-voita.github.io/nlp_course.html&#41;.-->)
-
-[//]: # ()
-[//]: # (Before that, I was Ph.D. student at the University of Edinburgh supervised by [Ivan Titov]&#40;{{site:ivan_page}}&#41; and [Rico Sennrich]&#40;{{site.rico_page}}&#41;,  was awarded [Facebook PhD Fellowship]&#40;https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/&#41;,)
-
-[//]: # (worked as a Research Scientist at [Yandex Research]&#40;{{site.yandex_research_main}}&#41; side by side with the [Yandex Translate]&#40;https://translate.yandex.com&#41; team, )
-
-[//]: # (while enjoying writing [blog posts]&#40;https://lena-voita.github.io/posts.html&#41; and [teaching]&#40;https://lena-voita.github.io/nlp_course.html&#41;<a onMouseOver="document.fox.src='/img/people/foxie.jpeg';" onMouseOut="document.fox.src='/img/people/orange_lena-min.jpg';">.</a> )
-
-[//]: # ()
-[//]: # (<!--<span style="color:red">__Blog-course:__</span>    NLP Course <span style="color:#92bf32">For You</span> - look [here]&#40;https://lena-voita.github.io/nlp_course.html&#41;.-->)
 
 ## <span style="color:darkblue">News </span>
 
