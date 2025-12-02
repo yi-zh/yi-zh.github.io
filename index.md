@@ -63,6 +63,8 @@ I am honored to introduce the individuals who shaped my research abilities, stre
 ## <span style="color:darkblue">News </span>
 
 __2025__
+* __Oct__ <span style="color:#7fa827">New publication:</span>
+  * Zhang, Y., Sahinidis, N.V. [__A combined linear and nonlinear presolve for nonlinear optimization__](https://doi.org/10.1016/j.ejco.2025.100119). EURO Journal on Computational Optimization (2025).
 * __Aug__ <span style="color:#7fa827">Invited talk:</span> Simultaneous convexification for global optimization of nonlinear problems with polynomial functions,  [GOC 2025](https://jcxy.sues.edu.cn/26447/list.htm). 
 * __Jun__ <span style="color:#7fa827">New publication:</span>
   * Zhang, Y., Sahinidis, N.V. [__Learning to deactivate probing with graph convolutional network for mixed-integer nonlinear programming__](https://doi.org/10.1007/s11590-025-02208-2). Optim Lett (2025).
