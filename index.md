@@ -55,12 +55,6 @@ __2025__
 * __Aug__ <span style="color:#7fa827">Invited talk:</span> Simultaneous convexification for global optimization of nonlinear problems with polynomial functions,  [GOC 2025](https://jcxy.sues.edu.cn/26447/list.htm).
 * __Jun__ <span style="color:#7fa827">New publication:</span>
   * Zhang, Y., Sahinidis, N.V. [__Learning to deactivate probing with graph convolutional network for mixed-integer nonlinear programming__](https://doi.org/10.1007/s11590-025-02208-2). Optim Lett (2025).
-<!--
-    * [__Source code__](https://github.com/yi-zh/minlp-gcn) is available for constructing GCN for general learning problems in Mixed-Integer Nonlinear Programming (MINLP)
-* __Apr__ <span style="color:#7fa827">Open-source code:</span>
-  * [__Black-box solver performance visualizer (BBOviz)__](https://github.com/yi-zh/bboviz). Developed by Zhang, Y. and Sahinidis, N.V.
-    * A Python script for analyzing and visualizing the performance of black-box solvers.
-!-->
 * <span style="color:#7fa827">Code releases:</span>  [BARON 25.2.1](https://minlp.com/baron-downloads).
 
 __2024__
