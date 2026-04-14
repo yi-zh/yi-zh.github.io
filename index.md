@@ -60,7 +60,7 @@ __2025__
 * __Apr__ <span style="color:#7fa827">Open-source code:</span>
   * [__Black-box solver performance visualizer (BBOviz)__](https://github.com/yi-zh/bboviz). Developed by Zhang, Y. and Sahinidis, N.V.
     * A Python script for analyzing and visualizing the performance of black-box solvers.
--->
+!-->
 * <span style="color:#7fa827">Code releases:</span>  [BARON 25.2.1](https://minlp.com/baron-downloads).
 
 __2024__
