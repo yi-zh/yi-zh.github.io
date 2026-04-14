@@ -45,17 +45,23 @@ I am honored to introduce the individuals who shaped my research abilities, stre
 
 ## <span style="color:darkblue">News </span>
 
+__2026__
+* __Apr__ <span style="color:#7fa827">New publication:</span>
+  * Zhang, Y., Ploskas, N., Sahinidis, N. V. [__A novel linear optimization presolve technique based on Fourier-Motzkin elimination__](https://link.springer.com/article/10.1007/s12532-026-00316-3). Mathematical Programming Computation (2026).
+
 __2025__
 * __Oct__ <span style="color:#7fa827">New publication:</span>
   * Zhang, Y., Sahinidis, N.V. [__A combined linear and nonlinear presolve for nonlinear optimization__](https://doi.org/10.1016/j.ejco.2025.100119). EURO Journal on Computational Optimization (2025).
 * __Aug__ <span style="color:#7fa827">Invited talk:</span> Simultaneous convexification for global optimization of nonlinear problems with polynomial functions,  [GOC 2025](https://jcxy.sues.edu.cn/26447/list.htm).
 * __Jun__ <span style="color:#7fa827">New publication:</span>
   * Zhang, Y., Sahinidis, N.V. [__Learning to deactivate probing with graph convolutional network for mixed-integer nonlinear programming__](https://doi.org/10.1007/s11590-025-02208-2). Optim Lett (2025).
+<!--
     * [__Source code__](https://github.com/yi-zh/minlp-gcn) is available for constructing GCN for general learning problems in Mixed-Integer Nonlinear Programming (MINLP)
 * __Apr__ <span style="color:#7fa827">Open-source code:</span>
   * [__Black-box solver performance visualizer (BBOviz)__](https://github.com/yi-zh/bboviz). Developed by Zhang, Y. and Sahinidis, N.V.
     * A Python script for analyzing and visualizing the performance of black-box solvers.
-* <span style="color:#7fa827">Code releases:</span>  [BARON 25.2.1](https://mailchi.mp/02814ca56f50/new-baron-version-25-2-1).
+-->
+* <span style="color:#7fa827">Code releases:</span>  [BARON 25.2.1](https://minlp.com/baron-downloads).
 
 __2024__
 * __Dec__ <span style="color:#7fa827">New publication:</span>
@@ -66,18 +72,18 @@ __2024__
 * <span style="color:#7fa827">Invited talks:</span>  [EUROPT 2024](https://europt2024.event.lu.se/), [EURO 2024](https://euro2024cph.dk/), [Panos-70](https://sites.google.com/view/panos-70/home). 
   * [Video](https://www.youtube.com/watch?v=oCL9npynb6M&t=428s) 
   <iframe width="640" height="360" src="https://www.youtube.com/embed/oCL9npynb6M" title="Solving Continuous and Discrete Nonlinear Programs with BARON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-* <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://mailchi.mp/7bb87bcc5909/new-baron-version-24-1-30), [BARON 24.5.8](https://mailchi.mp/4d3f8de3a2cf/new-baron-version-24-5-8).
+* <span style="color:#7fa827">Code releases:</span>  [BARON 24.1.30](https://minlp.com/baron-downloads), [BARON 24.5.8](https://minlp.com/baron-downloads).
 
 __2023__
 
 * __Jun__ <span style="color:#7fa827">Award:</span>  2023 iSoGo Best Theory Paper Award by [__International Society of Global Optimization (iSoGO)__](http://www.globaloptimization.org/).
 * <span style="color:#7fa827">Invited talks:</span>  [WCGO 2023](http://www.globaloptimization.org/conferences/wcgo-2023/), [PanOptiC 2023](https://www.ise.ufl.edu/panoptic/).
-* <span style="color:#7fa827">Code releases:</span>  [BARON 23.1.5](https://mailchi.mp/a9007a0500ea/new-baron-version-23-1-5), [BARON 23.4.28](https://mailchi.mp/848c42a671f9/new-baron-version-23-4-28), [BARON 23.6.15](https://mailchi.mp/9eaaa14761c0/new-baron-version-23-6-15), [BARON 23.11.13](https://mailchi.mp/582e1e93e3f6/new-baron-version-23-11-13).
+* <span style="color:#7fa827">Code releases:</span>  [BARON 23.1.5 - BARON 23.11.13](https://minlp.com/baron-downloads).
 
 <!--
 __2022__
 
-* <span style="color:#7fa827">Code releases:</span>  [BARON 22.1.22](https://mailchi.mp/a6dff866d191/new-baron-version-22-1-22), [BARON 22.9.30](https://mailchi.mp/3d7d52b39eff/new-baron-version-22-9-30).
+* <span style="color:#7fa827">Code releases:</span>  [BARON 22.1.22](https://minlp.com/baron-downloads), [BARON 22.9.30](https://minlp.com/baron-downloads).
 
 [//]: # (* <span style="color:#7fa827">Senior Area Chair:</span>  [AACL-IJCNLP 2022]&#40;https://www.aacl2022.org/&#41;.)
 
